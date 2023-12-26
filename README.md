@@ -1,9 +1,11 @@
 # C#.NET Web Application
-Welcome to mine C#.NET Web Application! This repository contains the source code and resources for our exciting web application built using C#.NET.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ValmirBP/C-web-page/blob/main/LICENSE)
+
+Welcome to my C#.NET Web Application! This repository contains the source code and resources for our exciting web application built using C#.NET.
 
 # Table of Contents
 
-Features
+Features (#Features)
 Prerequisites
 Getting Started
 Usage
