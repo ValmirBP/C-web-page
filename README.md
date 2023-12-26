@@ -13,15 +13,21 @@ License
 # Features
 
 Feature 1: Responsive website.
-Feature 2: MVC implementation
+Feature 2: MVC implementation.
+
+#Used Tecnologies:
+## Backend
+ - C# .Net
+
+ ## Frontend
+- HTML / CSS / JS
 
 # Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-.NET SDK (version X.X.X)
+.NET SDK (version 8.0.100)
 Visual Studio (optional)
-[Other prerequisites, if any]
 
 # Getting Started
 
@@ -29,21 +35,27 @@ Follow these steps to get your development environment set up:
 
 1. Clone the repository:
 
-bash
+```bash
 git clone https://github.com/ValmirBP/C-web-page.git
+```
 2. Navigate to the project directory:
 
-bash
+```bash
 cd csharp-web-app
+```
+```bash
 Restore the required packages:
+```
 
-bash
+```bash
 dotnet restore
+```
+
 3. Build the application:
 
-bash
+```bash
 dotnet build
-
+```
 # Usage
 
 To run the application locally:
@@ -52,6 +64,8 @@ To run the application locally:
 
 2. Run the following command:
 
-bash
+``` bash
 dotnet run
+```
+
 3. Open your web browser and navigate to http://localhost:5000 to view the application.
