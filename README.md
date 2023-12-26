@@ -42,12 +42,7 @@ git clone https://github.com/ValmirBP/C-web-page.git
 
 ```bash
 cd csharp-web-app
-```
-```bash
 Restore the required packages:
-```
-
-```bash
 dotnet restore
 ```
 
